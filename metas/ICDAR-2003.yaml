@@ -1,4 +1,7 @@
-name: ICDAR 2003
+title: ICDAR 2003
+meta_key: ICDAR-2003
+tags:
+  - OCR-data
 url: http://www.imglab.org/db/files/ICDAR2003-SceneTrialTrain-GT4.tar.gz
 score: ⭐️⭐️
 comment: 不推荐使用。总体不如 ICDAR 2013. gt 标注也比较另类，

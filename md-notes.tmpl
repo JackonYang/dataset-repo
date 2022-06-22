@@ -1,0 +1,25 @@
+---
+title: {{ meta['title'] }}
+{{ meta_str }}
+---
+{% if content %}
+{{ content }}
+{% else %}
+# {{ meta.title }}
+
+## 简评
+
+score: {{ meta.score }}
+
+{{ meta.comment }}
+
+## 描述
+
+{{ meta.description }}
+
+## 预览
+
+{% for image_url in meta.preview_urls %}
+![]({{ image_url }})
+{% endfor %}
+{% endif -%}
