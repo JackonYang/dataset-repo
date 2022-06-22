@@ -15,6 +15,7 @@ gen-notes-md:
 
 dvc-add:
 	ls raw-data | grep -v '.dvc' | xargs -I{} dvc add raw-data/{}
+	make gen-readme
 
 push-all:
 	make flake8
