@@ -1,0 +1,5 @@
+outs:
+- md5: 25f202c4403b9650544ffc9d98e60657.dir
+  size: 263254078
+  nfiles: 5
+  path: ICDAR2013

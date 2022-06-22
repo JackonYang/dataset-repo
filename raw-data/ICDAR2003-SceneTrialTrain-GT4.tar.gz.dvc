@@ -1,0 +1,4 @@
+outs:
+- md5: d161cae745923f828662ed3279588137
+  size: 64387454
+  path: ICDAR2003-SceneTrialTrain-GT4.tar.gz
