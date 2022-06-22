@@ -46,6 +46,8 @@ dvc gc --workspace -c
 
 ## 数据集说明
 
+total count: 2
+
 ### ICDAR 2003
 
 评分: ⭐️⭐️

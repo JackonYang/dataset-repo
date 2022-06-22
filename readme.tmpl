@@ -46,6 +46,8 @@ dvc gc --workspace -c
 
 ## 数据集说明
 
+total count: {{ meta_list|length }}
+
 {%- for dataset in meta_list %}
 
 ### {{ dataset.title }}
