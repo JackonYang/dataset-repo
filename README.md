@@ -46,7 +46,7 @@ dvc gc --workspace -c
 
 ## 数据集说明
 
-total count: 2
+total count: 3
 
 ### ICDAR 2003
 
@@ -88,6 +88,33 @@ total count: 2
 
 
 <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h3cqwd732ij20t50ew75l.jpg" width="450px">
+
+### ankush-me/SynthText
+
+评分: ⭐️⭐️⭐️⭐️
+
+简评: 比较难。质量不错，合成思路也值得学习。
+
+下载地址：[https://github.com/ankush-me/SynthText](https://github.com/ankush-me/SynthText)
+
+paper: Synthetic Data for Text Localisation in Natural Images
+
+word instances are placed in natural scene images, while taking into account the scene layout.
+
+Each text instance is annotated with its text-string, word-level and character-level bounding-boxes.
+
+size：8 million word instances. 800 thousand background images.
+
+
+
+数据集预览：
+
+<!-- ![preview]( | width=100px) -->
+
+
+<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h3c8jbezo5j20xy0msqa6.jpg" width="450px">
+<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h3c8mxgc0ej20xi0mewi6.jpg" width="450px">
+<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h3c8ng33cbj20x80m4n23.jpg" width="450px">
 
 ## References
 

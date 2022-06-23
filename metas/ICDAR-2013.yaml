@@ -1,7 +1,8 @@
 title: ICDAR 2013
 meta_key: ICDAR-2013
 tags:
-  - OCR-data
+  - ocr
+  - dataset
 url: http://rrc.cvc.uab.es/?ch=2&com=downloads
 score: ⭐️⭐️⭐️⭐️
 comment: 不错的 baseline 数据。真实场景，但偏简单。

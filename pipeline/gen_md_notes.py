@@ -78,7 +78,7 @@ def main():
         data['common_path'] = MD_NOTES_DATA_REL_ROOT
 
         heading_meta.pop('title')
-        data['meta_str'] = yaml.dump(heading_meta)
+        data['meta_str'] = yaml.dump(heading_meta).strip()
         data['content'] = clean_content(data['content'])
 
         markdown_io.render_md(TEMPLATE_DIR, TEMPLATE_NAME, data, out_filename)
