@@ -46,7 +46,7 @@ dvc gc --workspace -c
 
 ## 数据集说明
 
-total count: 4
+total count: 5
 
 ### ICDAR 2003
 
@@ -134,6 +134,19 @@ no desc
 
 
 <img src="https://tva1.sinaimg.cn/large/e6c9d24ely1h3pjgjx0bgj20d40a9dhp.jpg" width="450px">
+
+### smaller subset of Imagenet
+
+评分: ⭐️⭐️⭐️⭐️
+
+简评: 10 个简单的 class, 160px version
+
+下载地址：[https://github.com/fastai/imagenette](https://github.com/fastai/imagenette)
+
+A smaller subset of 10 easily classified classes from Imagenet, and a little more French
+
+
+
 
 ## References
 

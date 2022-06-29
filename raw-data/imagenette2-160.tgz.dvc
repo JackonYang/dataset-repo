@@ -1,0 +1,4 @@
+outs:
+- md5: e793b78cc4c9e9a4ccc0c1155377a412
+  size: 99003388
+  path: imagenette2-160.tgz

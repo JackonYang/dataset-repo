@@ -1,0 +1,11 @@
+title: smaller subset of Imagenet
+meta_key: imagenette2-160
+tags:
+  - dataset
+url: https://github.com/fastai/imagenette
+score: ⭐️⭐️⭐️⭐️
+highlight: classic
+comment: 10 个简单的 class, 160px version
+description: |
+  A smaller subset of 10 easily classified classes from Imagenet, and a little more French
+preview_urls:
