@@ -46,7 +46,7 @@ dvc gc --workspace -c
 
 ## 数据集说明
 
-total count: 3
+total count: 4
 
 ### ICDAR 2003
 
@@ -115,6 +115,25 @@ size：8 million word instances. 800 thousand background images.
 <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h3c8jbezo5j20xy0msqa6.jpg" width="450px">
 <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h3c8mxgc0ej20xi0mewi6.jpg" width="450px">
 <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h3c8ng33cbj20x80m4n23.jpg" width="450px">
+
+### cifar-10
+
+评分: ⭐️⭐️⭐️⭐️
+
+简评: 比较简单的早期 dataset
+
+下载地址：[https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz](https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz)
+
+no desc
+
+
+
+数据集预览：
+
+<!-- ![preview]( | width=100px) -->
+
+
+<img src="https://tva1.sinaimg.cn/large/e6c9d24ely1h3pjgjx0bgj20d40a9dhp.jpg" width="450px">
 
 ## References
 

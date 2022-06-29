@@ -1,0 +1,13 @@
+title: cifar-10
+meta_key: cifar-10-python
+tags:
+  - ocr
+  - dataset
+url: https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
+score: ⭐️⭐️⭐️⭐️
+highlight: classic
+comment: 比较简单的早期 dataset
+description: |
+  no desc
+preview_urls:
+  - https://tva1.sinaimg.cn/large/e6c9d24ely1h3pjgjx0bgj20d40a9dhp.jpg
